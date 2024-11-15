@@ -1,1 +1,6 @@
-
+class Calculadora {
+  
+  sumar(a, b) {
+    return a + b;
+  }
+}
