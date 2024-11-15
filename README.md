@@ -1,5 +1,2 @@
 # mi-repositorio-github
-Repositorio de prueba en github. ERROR
-
-
-NUEVO TEXTO
+Repositorio de prueba en github.
