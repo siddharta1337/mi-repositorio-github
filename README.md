@@ -1,2 +1,2 @@
 # mi-repositorio-github
-Repositorio de prueba en github!!
+Mi repositorio de prueba en github.
