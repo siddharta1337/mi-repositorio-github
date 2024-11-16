@@ -20,5 +20,8 @@ class Calculadora {
   multiplicar2(a, b) {
     return a * b;
   }
+  multiplicar3(a, b) {
+    return a * b;
+  }
 
 }
