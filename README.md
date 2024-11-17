@@ -1,2 +1,2 @@
-# mi-repositorio-github V.1.0.1
+# mi-repositorio-github
 Repositorio de prueba en github.
